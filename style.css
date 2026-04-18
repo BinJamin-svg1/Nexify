@@ -1,0 +1,80 @@
+body{
+     background-color: #03081a;
+     color: #0a1128;
+     font-family: 'Segoe Ui', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     height: 100%;
+     margin: 0;
+     padding: 0;
+
+}
+
+
+.click-btn{
+text-align: center;
+background-color: rgb(96, 11, 233);
+border: 2px solid rgba(255, 255, 255, .2);
+width: 420px;
+align-items: center;
+min-height: 70vh;
+justify-self: center;
+border-style: solid;
+border-radius: 10px;
+backdrop-filter: blur(20px);
+background: transparent;
+box-shadow: 0 0 10px rgba(255, 255, 255, .2);
+background-color: rgba(255, 255, 255, .2);
+}
+.btn{
+    
+    color: rgb(249, 249, 252);
+    width: 350px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 30px 0;
+    background-color: rgb(75, 27, 185);
+    border-color: rgb(73, 29, 194);
+ 
+}
+a:hover{
+    background-color: red;
+    color: white;
+}
+
+.ema-box input{
+    font-size: 16px;
+    width: 350px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 30px 0;
+    box-sizing: border-box;
+    padding: 20px;
+    backdrop-filter: blur(20px);
+    background: transparent;
+    box-shadow: 0 0 10px rgba(255, 255, 255, .2);
+
+}
+
+.rememer-forgot  {
+    color: rgb(4, 4, 5);
+    text-decoration: none;
+    text-decoration: underline;
+    text-align:left;
+    justify-content: space-between;
+    display: flex;
+
+}
+.ema-box label{
+    font-size: 25px;
+    text-align: right;
+    letter-spacing:  2px;
+     color: azure;
+     box-sizing: border-box;
+    padding: 20px;
+    backdrop-filter: blur(20px);
+    background: transparent;
+    box-shadow: 0 0 10px rgba(255, 255, 255, .2);
+
+}
